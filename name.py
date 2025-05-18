@@ -1,2 +1,2 @@
 name = "Your Name"
-print
+print ("Hi")
